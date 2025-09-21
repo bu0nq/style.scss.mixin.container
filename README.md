@@ -1,10 +1,10 @@
-# Style.SCSS.Mixin.GridContent
+# Style.SCSS.Mixin.Container
 
-Package for integrating `Style.SCSS.Mixin.GridContent` in a web environment.
+Package for integrating `Style.SCSS.Mixin.Container` in a web environment.
 
-![npm](https://img.shields.io/npm/v/@bu0nq/style.scss.mixin.grid-content?style=for-the-badge)
-![npm](https://img.shields.io/npm/dm/@bu0nq/style.scss.mixin.grid-content?style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/@bu0nq/style.scss.mixin.grid-content?style=for-the-badge)
+![npm](https://img.shields.io/npm/v/@bu0nq/style.scss.mixin.container?style=for-the-badge)
+![npm](https://img.shields.io/npm/dm/@bu0nq/style.scss.mixin.container?style=for-the-badge)
+![npm](https://img.shields.io/npm/dt/@bu0nq/style.scss.mixin.container?style=for-the-badge)
 ___
 
 ## Installation
@@ -12,5 +12,5 @@ ___
 This package can be deployed automatically using NPM:
 
 ```
-npm i @bu0nq/style.scss.mixin.grid-content
+npm i @bu0nq/style.scss.mixin.container
 ```
