@@ -1,20 +1,20 @@
 {
-  "name": "@bu0nq/style.scss.mixin.container",
+  "name": "@bu0nq/style.scss.mixin.grid-internal-container",
   "version": "0.1.0",
-  "description": "Package for integrating Style.SCSS.Mixin.Container",
-  "main": "container.scss",
+  "description": "Package for integrating Style.SCSS.Mixin.GridInternalContainer",
+  "main": "grid-internal-container.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bu0nq/style.scss.mixin.container.git"
+    "url": "git+https://github.com/bu0nq/style.scss.mixin.grid-internal-container.git"
   },
   "keywords": [
     "style",
     "scss",
     "mixin",
-    "container"
+    "grid-internal-container"
   ],
   "author": {
     "name": "bu0nq",
@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bu0nq/style.scss.mixin.container/issues"
+    "url": "https://github.com/bu0nq/style.scss.mixin.grid-internal-container/issues"
   },
-  "homepage": "https://github.com/bu0nq/style.scss.mixin.container#readme",
+  "homepage": "https://github.com/bu0nq/style.scss.mixin.grid-internal-container#readme",
   "publishConfig": {
     "access": "public"
   }
