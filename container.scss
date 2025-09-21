@@ -1,8 +1,8 @@
 @mixin container-wrapper(
-  $value
+  $container
 ) {
   display: grid;
-  grid-template-columns: [container-wrapper-left] minmax(0, 1fr) [container-wrapper-start] $value [container-wrapper-end] minmax(0, 1fr) [container-wrapper-right];
+  grid-template-columns: [container-wrapper-left] minmax(0, 1fr) [container-wrapper-start] $container [container-wrapper-end] minmax(0, 1fr) [container-wrapper-right];
 }
 
 @mixin container {
