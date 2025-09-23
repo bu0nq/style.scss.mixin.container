@@ -1,7 +1,0 @@
-@mixin grid-internal-container(
-  $container-start: grid-external-container-start,
-  $container-end: grid-external-container-end,
-) {
-  display: grid;
-  grid-column: $container-start / $container-end;
-}
